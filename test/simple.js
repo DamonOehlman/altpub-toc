@@ -17,6 +17,6 @@ test('we have two loaded entries', function(t) {
 
 test('entry names are what we expected', function(t) {
   t.plan(2);
-  t.equal(entries[0], '00-Chapter01.md', 'ok');
-  t.equal(entries[1], '01-Chapter02.md', 'ok');
+  t.equal(entries[0], '00-Chapter1.md', 'ok');
+  t.equal(entries[1], '01-Chapter2.md', 'ok');
 });
