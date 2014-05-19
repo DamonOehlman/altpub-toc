@@ -1,0 +1,28 @@
+{
+  "name": "altpub-toc",
+  "version": "0.0.0",
+  "description": "A leanpub compatible table of contents (Book.txt) file reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/altpub-toc.git"
+  },
+  "keywords": [
+    "leanpub",
+    "altpub",
+    "toc",
+    "reader"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/altpub-toc/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/altpub-toc",
+  "devDependencies": {
+    "tape": "^2"
+  }
+}
