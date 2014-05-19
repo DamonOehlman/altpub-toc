@@ -1,6 +1,6 @@
 {
   "name": "altpub-toc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A leanpub compatible table of contents (Book.txt) file reader",
   "main": "index.js",
   "scripts": {
